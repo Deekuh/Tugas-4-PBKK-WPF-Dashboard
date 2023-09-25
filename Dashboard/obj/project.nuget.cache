@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "dgSpecHash": "xbb/eFvkVjfgH65aF6U69w51IyzRJ0zXilM/viH3Fv4glD/wmeEtksuJ82cjMVlTcN5FLyrkm2oV++lVDYSbiA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\62813\\Documents\\College\\SEMESTER 5\\Pemrograman Berbasis Kerangka Kerja\\Dashboard\\Dashboard\\Dashboard.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\62813\\.nuget\\packages\\materialdesigncolors\\2.1.4\\materialdesigncolors.2.1.4.nupkg.sha512",
+    "C:\\Users\\62813\\.nuget\\packages\\materialdesignthemes\\4.9.0\\materialdesignthemes.4.9.0.nupkg.sha512",
+    "C:\\Users\\62813\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.39\\microsoft.xaml.behaviors.wpf.1.1.39.nupkg.sha512",
+    "C:\\Users\\62813\\.nuget\\packages\\modernuicharts.wpf.beta\\0.9.1\\modernuicharts.wpf.beta.0.9.1.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'ModernUICharts.WPF.Beta 0.9.1' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net7.0-windows7.0'. This package may not be fully compatible with your project.",
+      "libraryId": "ModernUICharts.WPF.Beta",
+      "targetGraphs": [
+        "net7.0-windows7.0"
+      ]
+    }
+  ]
+}
